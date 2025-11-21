@@ -1,4 +1,4 @@
 # Équipe
 
-* [![Patricia Nassif](photo_patricia.jpg)](patricia_nassif/)
+[![Patricia Nassif](photo_patricia.jpg)](patricia_nassif/)
 
