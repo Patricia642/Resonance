@@ -2,3 +2,4 @@
 * [Équipe](/equipe/)
 * [Concept](/concept/)
 * [Formation](/formation/)
+* [Informations](/informations/)
